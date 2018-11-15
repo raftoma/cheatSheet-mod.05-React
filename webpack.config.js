@@ -10,7 +10,7 @@ module.exports = {
   watch: true,
   mode: 'development',
   entry: {
-    main: path.join(__dirname, 'js', 'zadanie02.jsx')
+    main: path.join(__dirname, 'js', 'component.jsx')
   },
   output: {
     path: path.join(__dirname, 'dist'),

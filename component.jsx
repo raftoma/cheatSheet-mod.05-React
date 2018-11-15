@@ -1,4 +1,5 @@
 // require('../css/style.css');
+//import xxx from './nameOfFile';
 import React from 'react';
 import ReactDOM from 'react-dom';
 
